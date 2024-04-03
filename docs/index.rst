@@ -45,7 +45,7 @@ A set of modules for working with AX.25 packets in an amateur packet radio
 environment on all platforms. Includes support for NET/ROM routing table
 updates, and also facilities for working with the Linux native AX.25 stack.
 
-`Learn more <https://pyham_ax25.readthedocs.io>`__
+`Learn more <https://pyham-ax25.readthedocs.io>`__
 
 PyHam_KISS
 ----------
@@ -53,7 +53,7 @@ PyHam_KISS
 A client implementation of the KISS TNC protocol, providing send and receive
 capability via a TCP/IP connection.
 
-`Learn more <https://pyham_kiss.readthedocs.io>`__
+`Learn more <https://pyham-kiss.readthedocs.io>`__
 
 PyHam_PE
 --------
@@ -62,7 +62,7 @@ A full Packet Engine client library for the AGWPE protocol, enabling and
 simplifying the creation of connected-mode and unconnected applications that
 communicate through servers such as Direwolf or ldsped.
 
-`Learn more <https://pyham_pe.readthedocs.io>`__
+`Learn more <https://pyham-pe.readthedocs.io>`__
 
 About Open Source
 =================
