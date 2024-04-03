@@ -1,0 +1,32 @@
+/*
+ * Sphinx stylesheet for the PyHam website.
+ *
+ * This stylesheet minimally customizes the bizstyle theme.
+ *
+ */
+div.body p {
+    hyphens: manual;
+}
+div.bar {
+    -moz-box-shadow: 2px 2px 5px #000;
+    -webkit-box-shadow: 2px 2px 5px #000;
+
+    background-color: #336699;
+    color: #fff;
+
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+div.banner {
+    font-size: 2em;
+    height: 4rem;
+}
+div.banner span {
+  line-height: 4rem;
+}
+div.bottombar {
+    font-size: 1em;
+}
+div.footer {
+    text-align: center;
+}
