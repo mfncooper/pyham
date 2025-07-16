@@ -64,6 +64,18 @@ communicate through servers such as Direwolf or ldsped.
 
 `Learn more <https://pyham-pe.readthedocs.io>`__
 
+Other Tools
+===========
+
+AGWPE Dissector for Wireshark
+-----------------------------
+
+A comprehensive Wireshark dissector for the AGWPE protocol, written in Lua. The
+dissector breaks down the AGWPE frame header into its component fields, and also
+breaks down any accompanying data fields for that frame.
+
+`Learn more <https://github.com/mfncooper/dissect-agwpe>`__
+
 About Open Source
 =================
 
