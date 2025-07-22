@@ -3,7 +3,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'PyHam'
-copyright = '2024, Martin F N Cooper'
+copyright = '2024-2025, Martin F N Cooper'
 author = 'Martin F N Cooper'
 
 
